@@ -11,6 +11,6 @@
 
     - [4. Vector Analysis and Coordinate Systems](./Numpy/4.%20Vector_Analysis_and_Co_ord_System.ipynb)
 
-- [Scipy]
+- [Scipy](./Scipy/)
 
     - [1. Basics](./Scipy/1.%20Basics.ipynb)
